@@ -1,0 +1,16 @@
+button{
+    width: 10em;
+    height: 3em;
+    background: orange;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: 600;
+    border:2.5px solid rgb(255, 255, 255);
+    border-color: black;
+    border-radius: 10px 10px 10px 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: whitesmoke;
+    color:rgb(238, 117, 18);
+}

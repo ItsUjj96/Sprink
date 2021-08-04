@@ -1,0 +1,14 @@
+#menu-items{
+    display: none;
+}
+.list{
+    display: flex;
+    flex-direction: row;
+}
+.span2{
+    display: flex;
+    align-items: baseline;
+}
+.listMain{
+    color: white;
+}
